@@ -7,7 +7,7 @@
 >**este comanda revisa y printea en consola los archivos a subir a github**
 
 
-###Subir o hostear cambios
+### Subir o hostear cambios
 
 >git add .
 >**Este comando prepara los archivos para ser subidos a github (pendiente, el "." sube todos los archivos a github)**
