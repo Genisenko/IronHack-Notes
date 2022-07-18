@@ -1,3 +1,2 @@
-A la hora de empujar un archivo a GitHub, evitar el "git push -u" ya que el -u (untracked files)
-puede conllevar problemas
+A la hora de empujar un archivo a GitHub, evitar el "git push -u" ya que el -u (untracked files) puede conllevar problemas
 
